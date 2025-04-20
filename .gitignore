@@ -1,3 +1,9 @@
-*./env
-*./venv
+*/.env
+*/.venv
 /trackerenv
+*.env
+*.log
+*/Logs
+/Input
+*.xlsx
+*.csv
