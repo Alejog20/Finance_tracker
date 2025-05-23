@@ -1,4 +1,73 @@
-{"Uncategorized": [],
-    "Shopping":["Amazon", "Shein"], 
-    "Subscriptions":["Netflix, Prime Video"],
-    "Servicios Públicos":["Acueducto", "Luz", "Internet", "Gas"]}
+{
+  "Uncategorized": [],
+  
+  "Shopping": [
+    "TIENDAS AR",
+    "MI CABA",
+    "TIENDA D1", 
+    "CALLE TIEN",
+    "OXXO",
+    "DROG CRUZ",
+    "DROGUERIA",
+    "Amazon",
+    "Shein"
+  ],
+  
+  "Subscriptions": [
+    "APPLE.COM BILL",
+    "CLAUDE.AI SUBSCRI",
+    "Netflix",
+    "Prime Video", 
+    "Spotify",
+    "Apple Music"
+  ],
+  
+  "Public Services": [
+    "GRUPO VANTI",
+    "COLOMBIA TELECOMUNI",
+    "Acueducto",
+    "Luz",
+    "Internet",
+    "Gas"
+  ],
+  
+  "Food & Restaurants": [
+    "KFC",
+    "SUB LAT",
+    "RAPPI",
+    "WOK",
+    "SUBWAY",
+    "MCDONALDS"
+  ],
+  
+  "Transportation": [
+    "TRANSPORTE MASIVO",
+    "UBER",
+    "TAXI",
+    "METRO"
+  ],
+  
+  "Health & Fitness": [
+    "BODYTECH",
+    "PLAN MASCOTA PROTEGIDO",
+    "ATHLETIC"
+  ],
+  
+  "Banking & Transfers": [
+    "NEQUI",
+    "CUOTA MANEJO",
+    "INTERESES AHORROS",
+    "TRASLADO",
+    "TRANSFERENCIA"
+  ],
+  
+  "Work Related": [
+    "IRON MOUNTAIN",
+    "PAGO DE NOMI",
+    "PAGO DE PROV FON"
+  ],
+  
+  "Entertainment": [
+    "ENEBA.COM"
+  ]
+}
